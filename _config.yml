@@ -1,4 +1,3 @@
-layout_spectrum: 0.4853634345345199
 typography_spectrum: 0.08282515686005354
 color:
   brandStrength: 0.46300177462399006
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.4853634345345199
 name: On a way through life
 title: Stories told and untold
+description: What can you tell me?
