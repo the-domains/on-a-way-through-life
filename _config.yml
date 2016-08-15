@@ -16,5 +16,8 @@ navigation:
   - name: About me
     id: 4aec0147-693f-4ec4-ba47-abb9f280f2a7
     type: content
+  - name: Impressum
+    id: a50c18c2-0d0e-41c7-80fc-4b8806ebb62b
+    type: content
 title: Stories told and untold
 description: 'Story, EDC, Kids'
