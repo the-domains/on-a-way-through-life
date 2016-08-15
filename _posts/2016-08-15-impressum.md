@@ -1,17 +1,16 @@
 ---
 description: Angaben gemäß § 5 TMG
-dateModified: '2016-08-15T13:08:32.488Z'
-datePublished: '2016-08-15T13:20:22.453Z'
+dateModified: '2016-08-15T13:21:31.747Z'
+datePublished: '2016-08-15T13:21:32.299Z'
 title: Impressum
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-impressum.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: impressum/index.html
+_type: Blurb
 
 ---
 # Impressum
