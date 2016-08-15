@@ -4,19 +4,18 @@ description: >-
   am married (very happily, with a numerical addiction to 13) and have three
   fantastic (ly loud) kids and enjoy magic (of every kind), cards, music
   (accordion, guitar, singing) cycling and nature. 
-dateModified: '2016-08-15T13:19:22.834Z'
-datePublished: '2016-08-15T13:20:07.701Z'
+dateModified: '2016-08-15T13:21:22.325Z'
+datePublished: '2016-08-15T13:21:22.929Z'
 title: Artist on Lake Constance
 author: []
 publisher:
   name: Markus Pfeil
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-artist-on-lake-constance.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: artist-on-lake-constance/index.html
+_type: Blurb
 
 ---
 ![About Me](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e56e3d10-53bd-4047-8e40-38ea94782076.jpg)
