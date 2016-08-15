@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.4853634345345199
 name: On a way through life
+navigation:
+  - name: About me
+    id: 4aec0147-693f-4ec4-ba47-abb9f280f2a7
+    type: content
 title: Stories told and untold
 description: 'Story, EDC, Kids'
