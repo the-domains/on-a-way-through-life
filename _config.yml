@@ -1,8 +1,19 @@
-typography_spectrum: 0.08282515686005354
+title: Stories told and untold
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.46300177462399006
-  lightness: 0.866567509714514
-  saturation: 0.23824247159063816
+  saturation: 0.2382424715906382
+  brandStrength: 0.4630017746239901
   rhythmicContrast: 0.6240060832351446
   brandColors:
     - '#F7EDF0'
@@ -10,8 +21,9 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.4853634345345199
-name: On a way through life
+  lightness: 0.866567509714514
+typography_spectrum: 0.08282515686005354
+description: 'Story, EDC, Kids'
 navigation:
   - name: About me
     id: 4aec0147-693f-4ec4-ba47-abb9f280f2a7
@@ -19,5 +31,5 @@ navigation:
   - name: Impressum
     id: a50c18c2-0d0e-41c7-80fc-4b8806ebb62b
     type: content
-title: Stories told and untold
-description: 'Story, EDC, Kids'
+layout_spectrum: 1
+name: On a way through life
